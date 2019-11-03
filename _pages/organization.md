@@ -60,18 +60,6 @@ See <a href="./pc">program committee page</a>.
 
 <table>
 <tr>
-<td width="128px"><img src="/assets/images/organizers/kam-fai_wong.jpg"></td>
-<td>Kam-Fai Wong (chair)<br> 
-Chinese University of Hong Kong, China<br>
-&nbsp;</td>
-</tr>
-<tr>
-<td><img src="/assets/images/organizers/samuel_tam.jpg"></td>
-<td>Samuel Tam<br>
-Chinese University of Hong Kong, China<br>
-&nbsp;</td>
-</tr>
-<tr>
 <td><img src="/assets/images/organizers/emmanuele_chersoni.jpg"></td>
 <td>Emmanuele Chersoni<br>
 Hong Kong Polytechnic University, China<br>
@@ -90,15 +78,27 @@ Hong Kong Polytechnic University, China<br>
 &nbsp;</td>
 </tr>
 <tr>
-<td><img src="/assets/images/organizers/derek_wong.jpg"></td>
-<td>Derek F. Wong<br>
-University of Macau, China<br>
+<td><img src="/assets/images/organizers/samuel_tam.jpg"></td>
+<td>Samuel Tam<br>
+Chinese University of Hong Kong, China<br>
 &nbsp;</td>
 </tr>
 <tr>
 <td><img src="/assets/images/organizers/ruifeng_xu.jpg"></td>
 <td>Ruifeng Xu<br>
 Harbin Institute of Technology, Shenzhen, China<br>
+&nbsp;</td>
+</tr>
+<tr>
+<td><img src="/assets/images/organizers/derek_wong.jpg"></td>
+<td>Derek F. Wong<br>
+University of Macau, China<br>
+&nbsp;</td>
+</tr>
+<tr>
+<td width="128px"><img src="/assets/images/organizers/kam-fai_wong.jpg"></td>
+<td>Kam-Fai Wong (chair)<br> 
+Chinese University of Hong Kong, China<br>
 &nbsp;</td>
 </tr>
 </table>
@@ -128,15 +128,15 @@ Tokyo Institute of Technology, Japan<br>
 
 <table>
 <tr>
-<td width="128px"><img src="/assets/images/organizers/marine_carpuat.jpg"></td>
-<td>Marine Carpuat<br>
-University of Maryland, USA<br>
-&nbsp;</td>
-</tr>
-<tr>
 <td><img src="/assets/images/organizers/tim_baldwin.jpg"></td>
 <td>Timothy Baldwin<br>
 University of Melbourne, Australia<br>
+&nbsp;</td>
+</tr>
+<tr>
+<td width="128px"><img src="/assets/images/organizers/marine_carpuat.jpg"></td>
+<td>Marine Carpuat<br>
+University of Maryland, USA<br>
 &nbsp;</td>
 </tr>
 </table>
@@ -146,15 +146,15 @@ University of Melbourne, Australia<br>
 
 <table>
 <tr>
-<td width="128px"><img src="/assets/images/organizers/sebastian_pado.jpg"></td>
-<td>Sebastian Pad&oacute;<br>
-University of Stuttgart, Germany<br>
-&nbsp;</td>
-</tr>
-<tr>
 <td><img src="/assets/images/organizers/ruihong_huang.jpg"></td>
 <td>Ruihong Huang<br>
 Texas A&M University, USA<br>
+&nbsp;</td>
+</tr>
+<tr>
+<td width="128px"><img src="/assets/images/organizers/sebastian_pado.jpg"></td>
+<td>Sebastian Pad&oacute;<br>
+University of Stuttgart, Germany<br>
 &nbsp;</td>
 </tr>
 </table>
@@ -232,15 +232,15 @@ IT University of Copenhagen, Denmark<br>
 
 <table>
 <tr>
-<td width="128px"><img src="/assets/images/organizers/wei_xu.jpg"></td>
-<td>Wei Xu<br>
-Ohio State University, USA<br>
-&nbsp;</td>
-</tr>
-<tr>
 <td width="128px"><img src="/assets/images/organizers/sebastian_ruder.jpg"></td>
 <td>Sebastian Ruder<br>
 National University of Ireland, Ireland<br>
+&nbsp;</td>
+</tr>
+<tr>
+<td width="128px"><img src="/assets/images/organizers/wei_xu.jpg"></td>
+<td>Wei Xu<br>
+Ohio State University, USA<br>
 &nbsp;</td>
 </tr>
 </table>
@@ -321,15 +321,15 @@ In case you have questions to the Childcare Policy &amp; Grant Coordinators, jus
 
 <table>
 <tr>
-<td width="128px"><img src="/assets/images/organizers/vivek_srikumar.jpg"></td>
-<td>Vivek Srikumar<br>
-University of Utah, USA<br>
-&nbsp;</td>
-</tr>
-<tr>
 <td width="128px"><img src="/assets/images/organizers/chikiu_lo.jpg"></td>
 <td>Chi-Kiu (Jackie) Lo<br>
 National Research Council Canada, Canada<br>
+&nbsp;</td>
+</tr>
+<tr>
+<td width="128px"><img src="/assets/images/organizers/vivek_srikumar.jpg"></td>
+<td>Vivek Srikumar<br>
+University of Utah, USA<br>
 &nbsp;</td>
 </tr>
 </table>
