@@ -35,6 +35,13 @@ For questions on submissions, first check the <a href="./calls/submission">FAQs<
 
 
 <h2>News</h2>
+**November 3, 2019**
+Note there are [free shuttles](../downloads/coach-schedule.pdf) from the airport to the Regal Airport Hotel and the AsiaWorld-Expo conference venue (frequency: 20 min intervals). Pickup location is at the airport's Terminal 1 near car park 1 (between parking bay #12-16).
+
+**November 3, 2019**
+The conference handbook (PDF) is available online [here](https://drive.google.com/open?id=1fUtsj-TWkRvIP2rD9K9gYVO6BeHqIc4-). There are also limited paper copies at the registration counter.
+
+
 **October 30, 2019**.
 Find numbers of all posters and demos in the main conference [here](./program/#schedule).
 
