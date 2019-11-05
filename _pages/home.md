@@ -35,6 +35,8 @@ For questions on submissions, first check the <a href="./calls/submission">FAQs<
 
 
 <h2>News</h2>
+**November 5, 2015**.
+
 **November 4, 2019**.
 The EMNLP-IJCNLP 2019 proceedings are now available in the [ACL anthology](https://www.aclweb.org/anthology/events/emnlp-2019/). All papers are also linked from our [interactive schedule](./program/ischedule/).
 
