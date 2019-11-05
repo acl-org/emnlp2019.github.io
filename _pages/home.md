@@ -35,7 +35,27 @@ For questions on submissions, first check the <a href="./calls/submission">FAQs<
 
 
 <h2>News</h2>
-**November 5, 2015**.
+**Novemberr 5, 2019**.
+Points to note for those attending the social event in Hong Kong Disneyland (HKDL):
+
+GOING TO DISNEY:
+1. Starting 17:00h, there will be coaches available from the conference venue (AWE) to HKDL. 
+2. Please present your social event ticket before getting on the coach. You will be given the HKDL entrance ticket and a wrist band once you settled down.  Hold on to them. 
+3. For those going to HKDL before 17:00h by yourselves, you can exchange the tickets and wrist bands at the entrance. 
+4. The HKDL entrance ticket is for getting access to the park and the wrist band is for the dinner. 
+
+INSIDE DISNEY
+5. Buffet dinner will be served in the Starliner & Comet Café restaurants, Tomorrowland, 19:30h-21:30h.
+6. Please be reminded that strictly no RIDE after drinking alcohol.  
+7. Note also that monopod selfie sticks are not allowed inside HKDL.
+8. The park in general will be closed by 20:00h except Tomorrow Land which will be opened until 23:00h exclusively for us. 
+
+LEAVING DISNEY:
+9. Return coaches are available starting 21:30 and finished by 23:00h.  It will stop at Marriott Hotel, Terminal 1 and Regal Hotel.
+10. Public transportation (MTR) wilk not be available after 23:30h. 
+11. It may take 30 minutes or more from Tomorrowland to the parking lot for the coaches. Please leave sufficient time to leave HKDL.
+
+**November 5, 2019**.
 You are highly recommended to take the front seats in Hall2B and Hall2C for better involvement.
 
 **November 4, 2019**.
