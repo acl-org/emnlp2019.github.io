@@ -35,7 +35,7 @@ For questions on submissions, first check the <a href="./calls/submission">FAQs<
 
 
 <h2>News</h2>
-**Novemberr 5, 2019**.
+**November 5, 2019**.
 Points to note for those attending the social event in Hong Kong Disneyland (HKDL):
 
 GOING TO DISNEY:
