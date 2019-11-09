@@ -35,6 +35,9 @@ For questions on submissions, first check the <a href="./calls/submission">FAQs<
 
 
 <h2>News</h2>
+**November 9, 2019**.
+Congratulations to the [best paper award winners](./program/award/)! 
+
 **November 6, 2019**. 
 [Points to note](../downloads/Note-HKDL.pdf) for those attending the social event in Hong Kong Disneyland (HKDL).
 
