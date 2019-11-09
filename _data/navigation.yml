@@ -61,6 +61,8 @@ program:
          url: /program/schedule/
        - title: "Interactive Schedule"
          url: /program/ischedule/
+       - title: "Awards"
+         url: /program/award/
 
 participants:
    - title: "Participants"
