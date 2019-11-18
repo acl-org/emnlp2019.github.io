@@ -38,21 +38,30 @@ For questions on submissions, first check the <a href="./calls/submission">FAQs<
 **November 9, 2019**.
 Congratulations to the [best paper award winners](./program/award/)! 
 
+**November 4, 2019**.
+The EMNLP-IJCNLP 2019 proceedings are now available in the [ACL anthology](https://www.aclweb.org/anthology/events/emnlp-2019/). All papers are also linked from our [interactive schedule](./program/ischedule/).
+
+**November 3, 2019**.
+The conference handbook (PDF) is available online [here](https://drive.google.com/open?id=1fUtsj-TWkRvIP2rD9K9gYVO6BeHqIc4-). There are also limited paper copies at the registration counter.
+
+**October 24, 2019**.
+The conference app is now live! If you already have the Guidebook app on your device, click on "Find Guides" and search for "EMNLP-IJCNLP 2019" or scan the [QR code](./participants#conference-app). Otherwise, click <a href="https://guidebook.com/g/emnlp-ijcnlp2019/" target="_blank">here</a>.
+
+**October 23, 2019**.
+We now provide an [interactive schedule](./program/ischedule/) of the whole conference where you can create and print your own customized schedule.
+
+
+
+<!-- OUTDATED NEWS -------------------------------------------------------------
+
 **November 6, 2019**. 
 [Points to note](../downloads/Note-HKDL.pdf) for those attending the social event in Hong Kong Disneyland (HKDL).
 
 **November 5, 2019**.
 You are highly recommended to take the front seats in Hall2B and Hall2C for better involvement.
 
-**November 4, 2019**.
-The EMNLP-IJCNLP 2019 proceedings are now available in the [ACL anthology](https://www.aclweb.org/anthology/events/emnlp-2019/). All papers are also linked from our [interactive schedule](./program/ischedule/).
-
 **November 3, 2019**.
 Note there are [free shuttles](../downloads/coach-schedule.pdf) from the airport to the Regal Airport Hotel and the AsiaWorld-Expo conference venue (frequency: 20 min intervals). Pickup location is at the airport's Terminal 1 near car park 1 (between parking bay #12-16).
-
-**November 3, 2019**.
-The conference handbook (PDF) is available online [here](https://drive.google.com/open?id=1fUtsj-TWkRvIP2rD9K9gYVO6BeHqIc4-). There are also limited paper copies at the registration counter.
-
 
 **October 30, 2019**.
 Find numbers of all posters and demos in the main conference [here](./program/#schedule).
@@ -63,33 +72,11 @@ We now provide details on the provided [transfer](./participants#accommodation-a
 **October 24, 2019**.
 In case you have a presentation at the conference, please see our [instructions for presenters](./participants/presentation/), including our policy on remote presentations and now also instructions for demos.
 
-**October 24, 2019**.
-The conference app is now live! If you already have the Guidebook app on your device, click on "Find Guides" and search for "EMNLP-IJCNLP 2019" or scan the [QR code](./participants#conference-app). Otherwise, click <a href="https://guidebook.com/g/emnlp-ijcnlp2019/" target="_blank">here</a>.
-
-**October 23, 2019**.
-We now provide an [interactive schedule](./program/ischedule/) of the whole conference where you can create and print your own customized schedule.
+**October 22, 2019**.
+In case you have a talk or poster at the conference, please see our [instructions for presenters](./participants/presentation/), including our policy on remote presentations.
 
 **October 19, 2019**.
 See our [latest update](./participants) on the conference organization with several details on arrangements made. If you haven't registered yet, do so [here](https://aclweb.org/conference/emnlp-2019-conference-registration/) before the late registration ends (October 24, 2019, 11:59pm EDT). More registration information [here](./registration).
-
-**September 19, 2019**.
-For students participating in the conference, [accomodation](./participants#accommodation-and-transfer) in a shared room is provided at a reduced rate.
-
-**September 15, 2019**.
-We have published a [list of hotels](./participants/hotels/) remote from the protesting areas and advise participants to book one of these hotels. Some big hotels are close to the venue. For hotels closer to downtown, coaches will be provided. 
-
-**September 3, 2019**.
-Updated information on [Conference Venue](./participants#conference-venue) and [Hong Kong Travel](./participants#about-hong-kong).
-
-**August 17, 2019**.
-Important [visa information](./participants#visa-information) now available.
-
-
-
-<!-- OUTDATED NEWS -------------------------------------------------------------
-
-**October 22, 2019**.
-In case you have a talk or poster at the conference, please see our [instructions for presenters](./participants/presentation/), including our policy on remote presentations.
 
 **October 9, 2019**.
 The early registration deadline is approaching: October 10, 11:59pm EDT. Directly register [here](https://aclweb.org/conference/emnlp-2019-conference-registration/). Notice that each paper in the proceedings (main conference or workshop) needs to (i) have at least one author registered by the early registration deadline and (ii) have been presented at the conference, in order for the paper to be included in the proceedings.
@@ -115,6 +102,12 @@ The travel scholarships &amp; student volunteer notification has been postponed 
 **September 20, 2019**.
 We also provide online forms for [hotels and transfer](./participants/hotels/) now.
 
+**September 19, 2019**.
+For students participating in the conference, [accomodation](./participants#accommodation-and-transfer) in a shared room is provided at a reduced rate.
+
+**September 15, 2019**.
+We have published a [list of hotels](./participants/hotels/) remote from the protesting areas and advise participants to book one of these hotels. Some big hotels are close to the venue. For hotels closer to downtown, coaches will be provided. 
+
 **September 15, 2019**.
 The [registration](./registration) is going to open within the next week.
 
@@ -123,6 +116,9 @@ The dates of the [workshops](./program/workshops/) have been assigned.
 
 **September 8, 2019**.
 We are delighted to announce three [keynote speakers](./program/keynotes/).
+
+**September 3, 2019**.
+Updated information on [Conference Venue](./participants#conference-venue) and [Hong Kong Travel](./participants#about-hong-kong).
 
 **August 30, 2019**.
 We are happy to announce [Childcare Grants](./participants#childcare-grants) for participants with young children. Please apply by Sept 19, 2019.
@@ -141,6 +137,9 @@ The list of [accepted demo papers](./program/accepted/#demo-papers) is out.
 
 **August 28, 2019**.
 Apply to the [travel scholarships &amp; student volunteer program](./participants#travel-scholarships--student-volunteer-program)! Application instructions and submission website are now available (deadline: Sept 12, 2019). 
+
+**August 17, 2019**.
+Important [visa information](./participants#visa-information) now available.
 
 **August 15, 2019**.
 The list of accepted <a href="./program/tutorials/">tutorials</a> is out.
