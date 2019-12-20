@@ -35,6 +35,12 @@ For questions on submissions, first check the <a href="./calls/submission">FAQs<
 
 
 <h2>News</h2>
+**December 20, 2019**.
+We are happy to share photos of the main conference with everyone here on Google drive: [part1](https://drive.google.com/drive/folders/1im-R7HLcaZ71wgyHMtJ9w6E7yW9Mlq0_?usp=sharing), [part2](https://drive.google.com/drive/folders/13x3AaEkhXicBzC_T3jPisFap0Ymu2xcF?usp=sharing)
+
+**December 20, 2019**.
+If you missed something when coming back from the conference, check our (lost-and-founds).
+
 **November 9, 2019**.
 Congratulations to the [best paper award winners](./program/award/)! 
 

@@ -284,7 +284,11 @@ There's a companion app for the conference published on the <a href="https://gui
 
 
 
+## Lost and Found
 
+The following picture shows lost-and-found items from the conference. In case you are the owner of any of these, please get in touch with [Samuel Tam](mailto:sytam@cuhk.edu.hk).
+
+<img src="./assets/images/conference/lost-and-found.jpg">
 
 
 
