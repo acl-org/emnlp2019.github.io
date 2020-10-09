@@ -35,6 +35,9 @@ For questions on submissions, first check the <a href="./calls/submission">FAQs<
 
 
 <h2>News</h2>
+**October 9, 2020**.
+For archiving purposes, we will move this page soon to [https://2019.emnlp.org](https://2019.emnlp.org) (the link will work once done).
+
 **December 20, 2019**.
 We are happy to share photos of the main conference with everyone here on Google drive: [part1](https://drive.google.com/drive/folders/1im-R7HLcaZ71wgyHMtJ9w6E7yW9Mlq0_?usp=sharing), [part2](https://drive.google.com/drive/folders/13x3AaEkhXicBzC_T3jPisFap0Ymu2xcF?usp=sharing)
 
