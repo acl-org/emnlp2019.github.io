@@ -69,7 +69,7 @@ script: |
                     /* FOOTER on each page */
                     doc.setFont('courier');
                     doc.setFontSize(8);
-                    doc.text('(Generated via https://www.emnlp-ijcnlp2019.org/program/ischedule/)', data.settings.margin.left, doc.internal.pageSize.height - 10);
+                    doc.text('(Generated via https://2019.emnlp.org/program/ischedule/)', data.settings.margin.left, doc.internal.pageSize.height - 10);
                 },
                 drawCell: function(cell, data) {
                     var cellClass = cell.raw.content.className;

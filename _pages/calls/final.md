@@ -29,7 +29,7 @@ After submitting the final version of your paper, you can download the latest ve
 
 The camera-ready version of your paper should incorporate the comments of the reviewers as well as other changes you see fit to make. In addition, be sure to do all of the following:
 
-- Ensure that your paper conforms to the [provided styles, font and page size](https://www.emnlp-ijcnlp2019.org/calls/papers).
+- Ensure that your paper conforms to the [provided styles, font and page size](/calls/papers).
 - Include the authors' names and affiliations under the title. Note that the list of authors should be identical to the list specified when submitting the paper.
 - De-anonymize references to your own work in the body of the paper.
 - Where appropriate, add acknowledgments for colleagues, reviewers, and grants. Please note that the acknowledgment section should fit within the allowed page boundaries (9 pages of content for long papers, 5 pages of content for short papers) and be in the same font as the rest of the paper.
@@ -51,7 +51,7 @@ Long papers are permitted at most 9 pages of text while short papers may use up 
 
 ## What is the format for the camera-ready copy?
 
-The file must be in Portable Document Format (PDF) on <b>A4 paper</b>. We require the use of [LaTeX style files or Microsoft Word Style files tailored for EMNLP-IJCNLP 2019](https://www.emnlp-ijcnlp2019.org/calls/papers). You can view the style files and detailed formatting instructions on the web.
+The file must be in Portable Document Format (PDF) on <b>A4 paper</b>. We require the use of [LaTeX style files or Microsoft Word Style files tailored for EMNLP-IJCNLP 2019](/calls/papers). You can view the style files and detailed formatting instructions on the web.
 
 If you are using LaTeX, please create the PDF file with pdflatex or xelatex. This ensures use of the proper Type 1 fonts and also takes advantage of other PDF features. You will have the best results using a modern LaTeX distribution, in particular, [TeX live](http://www.tug.org/texlive/). Using the geometry package to set the A4 format is recommended.
 

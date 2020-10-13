@@ -26,9 +26,9 @@ For your convenience and to avoid any issues with affected areas during the conf
 
 1. Apps by the Hong Kong government reporting the latest situation and by the MTR (i.e., the public train service) giving up-to-date train schedules will be made available for download.
 2. We have assigned a local information officer to update the conference website with the latest information about the city.
-3. We still have some guestrooms available in the hotels in Kwai Chung, Tsing Yi and Tsuen Wan.  Please note that they do go fast and participants are advised to [book](https://www.emnlp-ijcnlp2019.org/participants/hotels/) ASAP.
+3. We still have some guestrooms available in the hotels in Kwai Chung, Tsing Yi and Tsuen Wan.  Please note that they do go fast and participants are advised to [book](/participants/hotels/) ASAP.
 4. We provide free circular shuttle service between the Airport Regal Hotel and AWE (the conference venue).
-5. We provide return shuttle bus service between hotels in Kwai Chung, Tsing Yi, and Tsuen Wan to AWE everyday. The schedule will be announced shortly. Please note that participants must book their shuttle in advance (HKD100 per day) via our [hotel page](https://www.emnlp-ijcnlp2019.org/participants/hotels/) or directly [here](https://mice.ctshkvip.com/transfer-booking/).
+5. We provide return shuttle bus service between hotels in Kwai Chung, Tsing Yi, and Tsuen Wan to AWE everyday. The schedule will be announced shortly. Please note that participants must book their shuttle in advance (HKD100 per day) via our [hotel page](/participants/hotels/) or directly [here](https://mice.ctshkvip.com/transfer-booking/).
 6. We provide free shuttle service for the social event on the evening of November 6, 2019:
 
    - From AWE to Hong Kong Disneyland (HKDL). Student helpers will hold up boards to guide participants to the shuttle at the end of the Conference day.
