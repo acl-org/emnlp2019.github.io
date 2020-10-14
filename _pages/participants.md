@@ -249,7 +249,7 @@ Catch up with your colleagues at the Welcome Reception in the conference venue, 
 - Monday, November 4th, 2019, 18:00-20:00
 - AsiaWorld Summit (Hall 2) and East Concourse, AsiaWorld Expo
 
-<img src="./assets/images/hongkong/welcome-reception.jpg">
+<img src="/assets/images/hongkong/welcome-reception.jpg">
 
 
 
@@ -261,7 +261,7 @@ Enjoy a magical night and meet the Marvel Heros at Hong Kong Disneyland! The soc
 - Wednesday, November 6th, 2019, 16:00-23:00
 - Tomorrowland, Hong Kong Disneyland
 
-<img src="./assets/images/hongkong/social-event.jpg">
+<img src="/assets/images/hongkong/social-event.jpg">
 
 Each participant registered for the main conference will get an entrance ticket to Hong Kong Disneyland that allows entering the park on or after 16:00. You can go everywhere in Hong Kong Disneyland. After the Night Parade (around 20:00), the park closes for the public and all EMNLP-IJCNLP 2019's participants gather at Tomorrowland. Standing buffet will be served, and all the rides in Tomorrowland including Hyperspace Mountain, Ant-Man and The Wasp: Nano Battle!, Iran-man Experience Rides, and Orbitron will be opened exclusively for EMNLP-IJCNLP's participants only.
 
@@ -288,7 +288,7 @@ There's a companion app for the conference published on the <a href="https://gui
 
 The following picture shows lost-and-found items from the conference. In case you are the owner of any of these, please get in touch with [Samuel Tam](mailto:sytam@cuhk.edu.hk).
 
-<img src="./assets/images/conference/lost-and-found.jpg">
+<img src="/assets/images/conference/lost-and-found.jpg">
 
 
 

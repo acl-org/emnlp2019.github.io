@@ -24,7 +24,7 @@ See the <a href="./accepted/">list of accepted papers</a> along with their autho
 
 EMNLP-IJCNLP 2019 will have three keynotes, given by Meeyoung Cha, Kyunghyun Cho, and Noam Slonim. 
 
-Details on the [keynote speakers](./program/keynotes/) page.
+Details on the [keynote speakers](/program/keynotes/) page.
 
 
 
